@@ -22,4 +22,8 @@ Primera iteración:
 
 - Evitar que se haga la misma búsqueda dos veces seguidas.
 - Haz que la búsqueda se haga automáticamente al escribir.
+<<<<<<< HEAD
 - Evita que se haga la búsqueda continuamente al escribir (debounce)
+=======
+- Evita que se haga la búsqueda continuamente al escribir (debounce)
+>>>>>>> 853f53db9761005b89a89a48aefee9bd19a9de4a
