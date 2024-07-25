@@ -23,7 +23,3 @@ Primera iteración:
 - Evitar que se haga la misma búsqueda dos veces seguidas.
 - Haz que la búsqueda se haga automáticamente al escribir.
 - Evita que se haga la búsqueda continuamente al escribir (debounce)
-
-- UseMemo: Para memoizar un calculo con las dependencias que usen ese calculo
-- UseEffect: hook que te permite cambiar codigo, ejecutar un efecto, llamadas a una api, con las dependencias que lo utilizen
-- UseCallback: Utiliza por debajo el useMemo, y se utiliza para las funciones
